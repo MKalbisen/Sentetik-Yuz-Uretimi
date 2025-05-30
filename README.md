@@ -31,8 +31,8 @@ proje/
 ├── model_utils.py           # Model yardımcı fonksiyonları
 ├── requirements.txt         # Python bağımlılıkları
 ├── celeba.zip              # CelebA veri seti (kullanıcı tarafından sağlanmalı)
-├── model_kayıt_yeni/       # Checkpoint'lerin saklandığı klasör
-└── sonuc_kayıt_yeni_2/     # Üretilen görüntülerin saklandığı klasör
+├── model_kayıt/       # Checkpoint'lerin saklandığı klasör
+└── sonuc_kayıt/     # Üretilen görüntülerin saklandığı klasör
 ```
 
 ## Kullanım

@@ -1,4 +1,4 @@
-## Sentetik-Yuz-Uretimi
+# Sentetik-Yuz-Uretimi
 
 # GAN Yüz Üretici
 

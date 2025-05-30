@@ -39,7 +39,7 @@ proje/
 
 ### 1. Veri Setinin Hazırlanması
 
-- CelebA veri setini indirin ve `celeba.zip` olarak ana klasöre yerleştirin
+- [CelebA](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip) veri setini indirin ve `celeba.zip` olarak ana klasöre yerleştirin
 - Script otomatik olarak zip dosyasını çıkaracak ve kullanıma hazırlayacaktır
 
 ### 2. Eğitime Devam Etme

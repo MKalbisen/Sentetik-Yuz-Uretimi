@@ -1,0 +1,1 @@
+# Sentetik-Yuz-Uretimi

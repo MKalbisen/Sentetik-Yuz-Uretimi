@@ -44,7 +44,7 @@ proje/
 
 ### 2. Eğitime Devam Etme
 
-#### İnteraktif Mod (Önerilen)
+#### İnteraktif Mod
 
 ```bash
 python continue_training.py
@@ -55,19 +55,6 @@ Bu komut çalıştırıldığında:
 - Hangi checkpoint'ten devam edeceğinizi seçebilirsiniz
 - Varsayılan olarak 20 ek epoch eğitim yapılacak
 
-#### Otomatik Mod
-
-```bash
-python continue_training.py --auto --epochs 30
-```
-
-Bu mod en son checkpoint'i otomatik seçer ve belirtilen epoch sayısı kadar eğitime devam eder.
-
-#### Belirli Checkpoint ile
-
-```bash
-python continue_training.py --checkpoint model_kayıt_yeni/model_epoch_50.pth --epochs 25
-```
 
 ### 3. Komut Satırı Parametreleri
 
